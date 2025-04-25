@@ -1,3 +1,4 @@
+
 <div align = center>
   <a href="https://discord.gg/AYbJ9MJez7">
     <img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscordapp.com%2Fapi%2Finvites%2FmT5YqjaJFh%3Fwith_counts%3Dtrue&query=%24.approximate_member_count&suffix=%20members&style=for-the-badge&logo=discord&logoSize=auto&label=The%20HyDe%20Project&labelColor=ebbcba&color=c79bf0">
@@ -12,11 +13,12 @@
 Multi-language README support
 -->
 
-<!-- [![en](https://img.shields.io/badge/lang-en-red.svg)](README.md) -->
 [![es](https://img.shields.io/badge/lang-es-yellow.svg)](Source/docs/README.es.md)
 [![de](https://img.shields.io/badge/lang-de-black.svg)](Source/docs/README.de.md)
 [![nl](https://img.shields.io/badge/lang-nl-green.svg)](Source/docs/README.nl.md)
 [![中文](https://img.shields.io/badge/lang-中文-orange.svg)](Source/docs/README.zh.md)
+[![fr](https://img.shields.io/badge/lang-fr-blue.svg)](Source/docs/README.fr.md)
+[![ar](https://img.shields.io/badge/lang-AR-orange.svg)](Source/docs/README.ar.md)
 
 <div align="center">
 
@@ -28,7 +30,7 @@ Multi-language README support
 <a href="#styles"><kbd> <br> Styles <br> </kbd></a>&ensp;&ensp;
 <a href="KEYBINDINGS.md"><kbd> <br> Keybindings <br> </kbd></a>&ensp;&ensp;
 <a href="https://www.youtube.com/watch?v=2rWqdKU1vu8&list=PLt8rU_ebLsc5yEHUVsAQTqokIBMtx3RFY&index=1"><kbd> <br> Youtube <br> </kbd></a>&ensp;&ensp;
-<a href="https://github.com/hyde-project/hyde/wiki"><kbd> <br> Wiki <br> </kbd></a>&ensp;&ensp;
+<a href="https://hydeproject.pages.dev/"><kbd> <br> Wiki <br> </kbd></a>&ensp;&ensp;
 <a href="https://discord.gg/qWehcFJxPa"><kbd> <br> Discord <br> </kbd></a>
 
 </div><br><br>
@@ -58,12 +60,13 @@ Check this out for the full note:
 
 <a id="installation"></a>
 <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=25&pause=1000&color=CCA9DD&vCenter=true&width=435&height=25&lines=INSTALLATION" width="450"/>
+
 ---
 
 The installation script is designed for a minimal [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux) install, but **may** work on some [Arch-based distros](https://wiki.archlinux.org/title/Arch-based_distributions).
 While installing HyDE alongside another [DE](https://wiki.archlinux.org/title/Desktop_environment)/[WM](https://wiki.archlinux.org/title/Window_manager) should work, due to it being a heavily customized setup, it **will** conflict with your [GTK](https://wiki.archlinux.org/title/GTK)/[Qt](https://wiki.archlinux.org/title/Qt) theming, [Shell](https://wiki.archlinux.org/title/Command-line_shell), [SDDM](https://wiki.archlinux.org/title/SDDM), [GRUB](https://wiki.archlinux.org/title/GRUB), etc. and is at your own risk.
 
-For Nixos support there is a separate project being maintained @ [Hydenix](https://github.com/richen604/hydenix/tree/main)
+For NixOS support there is a separate project being maintained @ [Hydenix](https://github.com/richen604/hydenix/tree/main)
 
 > [!IMPORTANT]
 > The install script will auto-detect an NVIDIA card and install nvidia-dkms drivers for your kernel.
@@ -108,6 +111,7 @@ For more details, please refer to the [installation wiki](https://github.com/HyD
 
 <a id="updating"></a>
 <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=25&pause=1000&color=CCA9DD&vCenter=true&width=435&height=25&lines=UPDATING" width="450"/>
+
 ---
 
 To update HyDE, you will need to pull the latest changes from GitHub and restore the configs by running the following commands:
@@ -132,8 +136,9 @@ For more details, you can refer to [Hyde-cli - dots management wiki](https://git
   <a href="#-design-by-t2"><kbd> <br> 🡅 <br> </kbd></a>
 </div>
 
-<a id="themes"></a>  
+<a id="themes"></a>
 <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=25&pause=1000&color=CCA9DD&vCenter=true&width=435&height=25&lines=THEMES" width="450"/>
+
 ---
 
 All our official themes are stored in a separate repository, allowing users to install them using themepatcher.
@@ -168,8 +173,9 @@ For more information, visit [HyDE-Project/hyde-themes](https://github.com/HyDE-P
   <a href="#-design-by-t2"><kbd> <br> 🡅 <br> </kbd></a>
 </div>
 
-<a id="styles"></a>  
+<a id="styles"></a>
 <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=25&pause=1000&color=CCA9DD&vCenter=true&width=435&height=25&lines=STYLES" width="450"/>
+
 ---
 
 <div align="center"><table><tr>Theme Select</tr><tr><td>
@@ -228,11 +234,12 @@ For more information, visit [HyDE-Project/hyde-themes](https://github.com/HyDE-P
 </div>
 
 <div align="right">
-  <sub>Last edited on: 02/01/2025<span id="last-edited"></span></sub>
+  <sub>Last edited on: 27/02/2025<span id="last-edited"></span></sub>
 </div>
 
 <a id="star_history"></a>
 <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Giga&size=25&pause=1000&color=CCA9DD&vCenter=true&width=435&height=25&lines=STARS" width="450"/>
+
 ---
 
 <a href="https://star-history.com/#hyde-project/hyde&hyde-project/hyde-gallery&hyde-project/hyde-themes&Timeline">

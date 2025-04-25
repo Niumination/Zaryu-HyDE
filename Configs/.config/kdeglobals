@@ -20,3 +20,6 @@ ColorScheme=Eternal-Arctic
 
 [UiSettings]
 ColorScheme=colors
+
+[Wallet]
+Enabled=false
