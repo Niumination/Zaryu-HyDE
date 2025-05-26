@@ -1,11 +1,11 @@
 [Colors:View]
-BackgroundNormal=#080910
+BackgroundNormal=#23162D
 
 [General]
 TerminalApplication=/usr/bin/kitty
 
 [Icons]
-Theme=Vivid-Glassy-Dark-Icons
+Theme=Tela-circle-dracula
 
 [KDE]
 ShowDeleteCommand=false
